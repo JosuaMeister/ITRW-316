@@ -9,7 +9,7 @@ namespace PracticalThree
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// Similation of Virtual Memory
         /// </summary>
         [STAThread]
         static void Main()
